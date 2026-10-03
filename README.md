@@ -22,6 +22,16 @@ The analysis focuses on identifying differences in riding frequency, timing, dur
 * Jupyter Notebook
 * Kaggle
 
+## 💼 Skills Demonstrated
+
+* **Data Cleaning & Preparation** — handling missing values, data types, and invalid records
+* **Data Transformation** — creating time-based and analytical features
+* **Exploratory Data Analysis (EDA)** — identifying patterns and differences between user segments
+* **Data Visualization** — communicating trends using charts and visualizations
+* **Python & Pandas** — data manipulation, aggregation, and analysis
+* **Business Analysis** — translating analytical findings into business insights
+* **Data-Driven Recommendations** — connecting analysis results to potential business actions
+
 ## 🔍 Analysis Approach
 
 The project follows a typical data analysis workflow:
@@ -38,6 +48,20 @@ The analysis covers:
 * Bike type preferences
 * Station usage
 * Geographic riding patterns
+
+## ⭐ Project Highlights
+
+This project demonstrates an end-to-end data analysis workflow using a real-world bike-share dataset.
+
+Key areas of work include:
+
+* Combining and preparing historical trip data
+* Cleaning and validating raw data
+* Creating analytical features such as ride duration, day of week, hour, month, and distance
+* Comparing behavioral patterns between annual members and casual riders
+* Identifying hourly, weekly, and seasonal trends
+* Creating business-oriented visualizations
+* Translating analytical findings into actionable recommendations
 
 ## 📈 Key Findings
 
