@@ -59,6 +59,28 @@ The analysis identifies clear behavioral differences between annual members and 
 
 These differences provide a basis for customer segmentation and targeted membership strategies.
 
+## 📊 Key Visualizations
+
+### Weekly Riding Patterns
+
+![Weekly Riding Patterns](images/weekly_riding_patterns.png)
+
+### Hourly Riding Patterns
+
+![Hourly Riding Patterns](images/hourly_riding_patterns.png)
+
+### Monthly & Seasonal Trends
+
+![Monthly & Seasonal Trends](images/monthly_seasonal_trends.png)
+
+### Ride Duration
+
+![Ride Duration](images/ride_duration.png)
+
+### Bike Type Preferences
+
+![Bike Type Preferences](images/bike_type_preferences.png)
+
 ## 💡 Business Recommendations
 
 Based on the observed riding patterns, Cyclistic could consider:
